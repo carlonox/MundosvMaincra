@@ -1,0 +1,17 @@
+{
+	id: "4858a9eb-3e4c-46b5-9c8e-4e58d4033eff"
+	type: "player"
+	player_name: "LilSnek_"
+	ranks: {
+		4858a9eb-3e4c-46b5-9c8e-4e58d4033eff: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "LilSnek_"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFC0"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

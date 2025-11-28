@@ -1,0 +1,17 @@
+{
+	id: "eea58efa-4fd4-4c10-93b5-3ada5bdfcbea"
+	type: "player"
+	player_name: "justburbs"
+	ranks: {
+		eea58efa-4fd4-4c10-93b5-3ada5bdfcbea: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "justburbs"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFFB"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
