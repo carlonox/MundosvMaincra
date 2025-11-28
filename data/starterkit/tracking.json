@@ -2,5 +2,9 @@
   "singleplayer": {
     "Niggacraft69": true
   },
-  "multiplayer": {}
+  "multiplayer": {
+    "4858a9eb-3e4c-46b5-9c8e-4e58d4033eff": true,
+    "eea58efa-4fd4-4c10-93b5-3ada5bdfcbea": true,
+    "ac1b9029-3e0c-4f28-ac77-ef00912c25f8": true
+  }
 }
