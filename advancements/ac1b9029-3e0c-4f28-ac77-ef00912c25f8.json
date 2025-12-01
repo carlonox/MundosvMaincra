@@ -105,11 +105,13 @@
     "criteria": {
       "minecraft:deep_ocean": "2025-11-27 18:01:37 -0500",
       "minecraft:beach": "2025-11-27 17:47:57 -0500",
+      "minecraft:sparse_jungle": "2025-12-01 00:13:03 -0500",
       "minecraft:lukewarm_ocean": "2025-11-27 18:04:13 -0500",
       "minecraft:river": "2025-11-27 18:08:50 -0500",
       "minecraft:cold_ocean": "2025-11-27 17:59:45 -0500",
       "minecraft:forest": "2025-11-27 17:58:54 -0500",
       "minecraft:ocean": "2025-11-27 18:00:47 -0500",
+      "minecraft:jungle": "2025-12-01 00:14:37 -0500",
       "minecraft:deep_lukewarm_ocean": "2025-11-27 18:03:45 -0500",
       "minecraft:savanna": "2025-11-27 18:09:37 -0500"
     },
@@ -4669,9 +4671,11 @@
       "minecraft:spider": "2025-11-27 22:18:44 -0500",
       "minecraft:phantom": "2025-11-27 22:10:27 -0500",
       "minecraft:zombified_piglin": "2025-11-27 23:11:06 -0500",
+      "minecraft:witch": "2025-12-01 00:45:47 -0500",
       "minecraft:wither_skeleton": "2025-11-27 23:38:01 -0500",
       "minecraft:piglin": "2025-11-27 23:51:29 -0500",
       "minecraft:enderman": "2025-11-27 21:31:12 -0500",
+      "minecraft:silverfish": "2025-12-01 00:22:09 -0500",
       "minecraft:zombie": "2025-11-27 18:32:15 -0500",
       "minecraft:zombie_villager": "2025-11-29 02:30:05 -0500"
     },
@@ -14817,6 +14821,282 @@
   "rpg_series:spell_master_fire": {
     "criteria": {
       "bind": "2025-11-29 02:58:36 -0500"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/birch_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-12-01 00:02:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-12-01 00:17:38 -0500"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/spruce_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-12-01 00:02:21 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_trim_template_with_water": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-12-01 00:20:37 -0500"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/orange_dye": {
+    "criteria": {
+      "has_turmeric": "2025-12-01 00:00:02 -0500"
+    },
+    "done": true
+  },
+  "croptopia:getseeds": {
+    "criteria": {
+      "has_seeds": "2025-12-01 00:00:46 -0500"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/lodestone": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2025-12-01 00:17:38 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-12-01 00:20:37 -0500"
+    },
+    "done": true
+  },
+  "croptopia:gather_savanna": {
+    "criteria": {
+      "turmeric_seed": "2025-12-01 00:00:46 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-12-01 00:18:41 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_smithing_template_with_water": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-12-01 00:20:37 -0500"
+    },
+    "done": true
+  },
+  "endrem:main/rogue_eye": {
+    "criteria": {
+      "rogue_eye": "2025-12-01 00:20:31 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-11-30 23:57:46 -0500"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/turmeric_seed": {
+    "criteria": {
+      "has_turmeric": "2025-12-01 00:00:02 -0500"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_highland": {
+    "criteria": {
+      "has_core_specification_item": "2025-12-01 00:17:38 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-12-01 00:51:00 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_smithing_template_with_mercury": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-12-01 00:20:37 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/emerald_plate_from_block": {
+    "criteria": {
+      "has_emerald_block": "2025-12-01 00:17:38 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-12-01 00:51:00 -0500"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/dragons_blood_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-12-01 00:02:21 -0500"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/dark_oak_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-12-01 00:02:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-12-01 00:51:00 -0500"
+    },
+    "done": true
+  },
+  "croptopia:gather_all": {
+    "criteria": {
+      "turmeric_seed": "2025-12-01 00:00:46 -0500"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/decorations/oak_shrub": {
+    "criteria": {
+      "has_oak_sapling": "2025-12-01 00:14:51 -0500"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/acacia_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-12-01 00:02:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-11-30 23:57:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2025-12-01 00:20:37 -0500"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/warped_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-12-01 00:02:21 -0500"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/oak_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-12-01 00:02:21 -0500"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/cypress_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-12-01 00:02:21 -0500"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/spike": {
+    "criteria": {
+      "has_bamboo_spikes_tipped": "2025-12-01 00:20:51 -0500"
+    },
+    "done": true
+  },
+  "twigs:recipes/compacted_dripstone": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-12-01 00:18:41 -0500"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/crimson_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-12-01 00:02:21 -0500"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chicken_and_dumplings": {
+    "criteria": {
+      "has_chicken": "2025-12-01 00:51:00 -0500"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/jungle_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-12-01 00:02:21 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_trim_template_with_mercury": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-12-01 00:20:37 -0500"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fried_chicken": {
+    "criteria": {
+      "has_chicken": "2025-12-01 00:51:00 -0500"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/elder_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-12-01 00:02:21 -0500"
+    },
+    "done": true
+  },
+  "herbalbrews:main/find_tea_blossom": {
+    "criteria": {
+      "tea_blossom": "2025-12-01 00:44:23 -0500"
+    },
+    "done": true
+  },
+  "zenith:enchanting/30ench": {
+    "criteria": {
+      "enchanted_item": "2025-12-01 01:40:36 -0500"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/juniper_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-12-01 00:02:21 -0500"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_piles/dandelion": {
+    "criteria": {
+      "has_flower": "2025-11-30 23:57:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-12-01 01:40:36 -0500"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chicken_and_rice": {
+    "criteria": {
+      "has_chicken": "2025-12-01 00:51:00 -0500"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chicken_and_noodles": {
+    "criteria": {
+      "has_chicken": "2025-12-01 00:51:00 -0500"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/dandelion_paper_lantern": {
+    "criteria": {
+      "has_item": "2025-11-30 23:57:46 -0500"
     },
     "done": true
   },
