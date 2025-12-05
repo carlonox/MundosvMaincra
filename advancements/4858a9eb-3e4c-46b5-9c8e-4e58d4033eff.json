@@ -275,16 +275,27 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-12-04 21:55:35 -0500",
+      "minecraft:old_growth_pine_taiga": "2025-12-04 22:07:50 -0500",
+      "minecraft:taiga": "2025-12-04 22:07:52 -0500",
       "minecraft:deep_ocean": "2025-11-27 18:01:33 -0500",
+      "minecraft:frozen_river": "2025-12-04 23:28:20 -0500",
+      "minecraft:birch_forest": "2025-12-04 22:04:14 -0500",
       "minecraft:beach": "2025-11-27 17:47:30 -0500",
+      "minecraft:dark_forest": "2025-12-04 22:05:24 -0500",
       "minecraft:lukewarm_ocean": "2025-11-27 18:04:09 -0500",
       "minecraft:river": "2025-11-27 18:08:40 -0500",
+      "minecraft:grove": "2025-12-04 21:55:38 -0500",
+      "minecraft:jagged_peaks": "2025-12-04 21:54:56 -0500",
       "minecraft:cold_ocean": "2025-11-27 17:59:44 -0500",
       "minecraft:forest": "2025-11-27 17:52:33 -0500",
       "minecraft:lush_caves": "2025-11-27 20:26:03 -0500",
+      "minecraft:frozen_ocean": "2025-12-04 23:36:14 -0500",
       "minecraft:ocean": "2025-11-27 18:00:43 -0500",
       "minecraft:deep_lukewarm_ocean": "2025-11-27 18:03:41 -0500",
-      "minecraft:savanna": "2025-11-27 18:08:49 -0500"
+      "minecraft:meadow": "2025-12-04 21:54:13 -0500",
+      "minecraft:savanna": "2025-11-27 18:08:49 -0500",
+      "minecraft:plains": "2025-12-04 21:53:57 -0500"
     },
     "done": false
   },
@@ -2541,8 +2552,10 @@
       "minecraft:piglin_brute": "2025-11-27 23:12:09 -0500",
       "minecraft:spider": "2025-11-27 22:17:21 -0500",
       "minecraft:creeper": "2025-11-27 18:05:48 -0500",
+      "minecraft:phantom": "2025-12-04 23:47:51 -0500",
       "minecraft:zombified_piglin": "2025-11-27 23:53:20 -0500",
       "minecraft:wither_skeleton": "2025-11-27 23:30:13 -0500",
+      "minecraft:husk": "2025-12-04 22:13:08 -0500",
       "minecraft:piglin": "2025-11-27 23:12:17 -0500",
       "minecraft:silverfish": "2025-11-27 21:52:45 -0500",
       "minecraft:zombie": "2025-11-27 17:59:03 -0500",
@@ -3159,28 +3172,58 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "mauve_hills": "2025-11-27 18:08:01 -0500",
+      "shrubland": "2025-12-04 21:53:37 -0500",
+      "autumnal_maple_forest": "2025-12-04 22:25:48 -0500",
+      "muddy_river": "2025-12-04 22:08:02 -0500",
       "ancient_delta": "2025-11-27 21:05:19 -0500",
+      "willow_forest": "2025-12-04 21:52:48 -0500",
+      "frozen_tundra": "2025-12-04 23:28:23 -0500",
       "barley_fields": "2025-11-27 18:08:44 -0500",
       "rocky_meadow": "2025-11-27 18:07:20 -0500",
+      "frozen_pine_taiga": "2025-12-04 23:27:26 -0500",
+      "maple_forest": "2025-12-04 22:25:06 -0500",
+      "magnolia_highlands": "2025-12-04 21:50:47 -0500",
       "deciduous_forest": "2025-11-27 18:05:30 -0500",
+      "boreal_forest": "2025-12-04 22:08:00 -0500",
       "blackstone_basin": "2025-11-28 00:37:43 -0500",
+      "towering_cliffs": "2025-12-04 23:27:07 -0500",
       "bamboo_forest": "2025-11-27 18:04:42 -0500",
+      "cold_boreal_taiga": "2025-12-04 23:30:06 -0500",
+      "temperate_grove": "2025-12-04 21:53:15 -0500",
       "ashen_woodland": "2025-11-27 18:03:09 -0500",
+      "cold_river": "2025-12-04 22:27:22 -0500",
+      "pumpkin_fields": "2025-12-04 22:27:09 -0500",
       "grassland": "2025-11-27 18:04:48 -0500",
-      "prairie": "2025-11-27 18:08:03 -0500"
+      "prairie": "2025-11-27 18:08:03 -0500",
+      "icy_heights": "2025-12-04 23:27:24 -0500"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
       "mauve_hills": "2025-11-27 18:08:01 -0500",
+      "shrubland": "2025-12-04 21:53:37 -0500",
+      "autumnal_maple_forest": "2025-12-04 22:25:48 -0500",
+      "muddy_river": "2025-12-04 22:08:02 -0500",
+      "willow_forest": "2025-12-04 21:52:48 -0500",
+      "frozen_tundra": "2025-12-04 23:28:23 -0500",
       "barley_fields": "2025-11-27 18:08:44 -0500",
       "rocky_meadow": "2025-11-27 18:07:20 -0500",
+      "frozen_pine_taiga": "2025-12-04 23:27:26 -0500",
+      "maple_forest": "2025-12-04 22:25:06 -0500",
+      "magnolia_highlands": "2025-12-04 21:50:47 -0500",
       "deciduous_forest": "2025-11-27 18:05:30 -0500",
+      "boreal_forest": "2025-12-04 22:08:00 -0500",
+      "towering_cliffs": "2025-12-04 23:27:07 -0500",
       "bamboo_forest": "2025-11-27 18:04:42 -0500",
+      "cold_boreal_taiga": "2025-12-04 23:30:06 -0500",
+      "temperate_grove": "2025-12-04 21:53:15 -0500",
       "ashen_woodland": "2025-11-27 18:03:09 -0500",
+      "cold_river": "2025-12-04 22:27:22 -0500",
+      "pumpkin_fields": "2025-12-04 22:27:09 -0500",
       "grassland": "2025-11-27 18:04:48 -0500",
-      "prairie": "2025-11-27 18:08:03 -0500"
+      "prairie": "2025-11-27 18:08:03 -0500",
+      "icy_heights": "2025-12-04 23:27:24 -0500"
     },
     "done": false
   },
@@ -3296,11 +3339,14 @@
     "criteria": {
       "cooked_beef": "2025-11-28 01:59:40 -0500",
       "apple": "2025-11-28 01:39:10 -0500",
+      "pumpkin_pie": "2025-12-04 22:18:35 -0500",
+      "mutton": "2025-12-04 23:29:41 -0500",
       "bread": "2025-11-27 18:07:34 -0500",
       "golden_apple": "2025-11-28 00:55:43 -0500",
       "rotten_flesh": "2025-11-28 01:49:06 -0500",
       "salmon": "2025-11-27 21:07:14 -0500",
-      "melon_slice": "2025-11-28 01:02:45 -0500"
+      "melon_slice": "2025-11-28 01:02:45 -0500",
+      "mushroom_stew": "2025-12-04 22:56:42 -0500"
     },
     "done": false
   },
@@ -13836,6 +13882,984 @@
       "netherite_upgrade": "2025-11-28 02:20:51 -0500"
     },
     "done": true
+  },
+  "betterend:recipes/misc/blossom_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2025-12-04 21:59:35 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/glistering_melon_slice": {
+    "criteria": {
+      "has_glistering_melon_slice": "2025-12-04 22:16:07 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_table": "2025-12-04 22:12:39 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_tiles_from_copper_ingots_stonecutting": {
+    "criteria": {
+      "has_copper_ingots": "2025-12-05 00:26:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-12-04 22:12:39 -0500"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/wrench": {
+    "criteria": {
+      "has_copper_ingot": "2025-12-05 00:26:04 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/copper_cable": {
+    "criteria": {
+      "has_copper_ingot": "2025-12-05 00:26:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-12-04 22:04:25 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2025-12-05 00:26:04 -0500"
+    },
+    "done": true
+  },
+  "minecells:promenade": {
+    "criteria": {
+      "requirement": "2025-12-04 22:51:29 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2025-12-05 00:26:04 -0500"
+    },
+    "done": true
+  },
+  "frostiful:recipes/combat/armor/fur_boots": {
+    "criteria": {
+      "has_fur": "2025-12-04 23:37:10 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/mushroom_stew": {
+    "criteria": {
+      "has_mushroom_stew": "2025-12-04 22:19:19 -0500"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_oak_wine_rack_big": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-12-04 22:12:39 -0500"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/undead_archer": {
+    "criteria": {
+      "requirement": "2025-12-04 22:30:10 -0500"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/dark_oak_support": {
+    "criteria": {
+      "has_plank": "2025-12-04 22:12:39 -0500"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/magenta_dye_from_bleeding_heart": {
+    "criteria": {
+      "has_bleeding_heart": "2025-12-04 23:31:05 -0500"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/phantom_armor_leggings": {
+    "criteria": {
+      "has_phantom_skin": "2025-12-05 00:04:10 -0500"
+    },
+    "done": true
+  },
+  "oxidized:recipes/copper_nugget": {
+    "criteria": {
+      "has_copper_block": "2025-12-05 00:26:04 -0500"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/polished_basalt_basalt_bricks": {
+    "criteria": {
+      "has_polished_basalt": "2025-12-05 00:07:46 -0500"
+    },
+    "done": true
+  },
+  "minecells:cell_crafter": {
+    "criteria": {
+      "use_cell_crafter": "2025-12-04 22:45:05 -0500"
+    },
+    "done": true
+  },
+  "minecells:unlock/kill_a_leaping_zombie": {
+    "criteria": {
+      "leaping_zombie_killed": "2025-12-04 22:29:59 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/glass_bottle_from_potion": {
+    "criteria": {
+      "has_potion": "2025-12-04 21:59:35 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/skull_pottery_sherd": {
+    "criteria": {
+      "has_skeleton_skull": "2025-12-04 22:22:12 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_drawer": {
+    "criteria": {
+      "has_dark_oak_drawer": "2025-12-04 22:12:39 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_couch": {
+    "criteria": {
+      "has_dark_oak_couch": "2025-12-04 22:12:39 -0500"
+    },
+    "done": true
+  },
+  "twigs:recipes/basalt_blocks/polished_basalt_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2025-12-05 00:07:46 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_chair": "2025-12-04 22:12:39 -0500"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/phantom_armor_helmet": {
+    "criteria": {
+      "has_phantom_bones": "2025-12-05 00:01:31 -0500"
+    },
+    "done": true
+  },
+  "botania:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_item": "2025-12-04 22:56:42 -0500"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-12-04 22:08:42 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/carrot": {
+    "criteria": {
+      "has_carrot": "2025-12-04 22:12:55 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-12-04 22:56:42 -0500"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/phantom_armor_boots": {
+    "criteria": {
+      "has_phantom_skin": "2025-12-05 00:04:10 -0500"
+    },
+    "done": true
+  },
+  "minecells:elite": {
+    "criteria": {
+      "obelisk_activated": "2025-12-04 23:21:25 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_mushroom_stew": "2025-12-04 22:19:19 -0500"
+    },
+    "done": true
+  },
+  "minecells:prison": {
+    "criteria": {
+      "requirement": "2025-12-04 22:28:21 -0500"
+    },
+    "done": true
+  },
+  "travelersbackpack:use_sleeping_bag": {
+    "criteria": {
+      "use_sleeping_bag": "2025-12-04 21:58:34 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_ladder_from_copper_ingots_stonecutting": {
+    "criteria": {
+      "has_copper_ingots": "2025-12-05 00:26:04 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-12-04 22:12:55 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2025-12-05 00:26:04 -0500"
+    },
+    "done": true
+  },
+  "minecells:root": {
+    "criteria": {
+      "requirement": "2025-12-04 22:28:11 -0500"
+    },
+    "done": true
+  },
+  "minecells:book/book": {
+    "criteria": {
+      "requirement": "2025-12-04 22:28:11 -0500"
+    },
+    "done": true
+  },
+  "prominent:level_10": {
+    "criteria": {
+      "requirement": "2025-12-05 00:15:34 -0500"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/virus_nullodermal": {
+    "criteria": {
+      "has_alt_item": "2025-12-04 22:22:12 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-12-05 00:26:04 -0500"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/cog_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-12-05 00:26:04 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
+    "criteria": {
+      "has_item": "2025-12-05 00:26:04 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_shelf": {
+    "criteria": {
+      "has_dark_oak_shelf": "2025-12-04 22:12:39 -0500"
+    },
+    "done": true
+  },
+  "vinery:main/fruits_of_the_field": {
+    "criteria": {
+      "fruits_of_the_field": "2025-12-04 21:53:57 -0500"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/runner": {
+    "criteria": {
+      "requirement": "2025-12-04 22:54:38 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_dining_bench": {
+    "criteria": {
+      "has_dark_oak_dining_bench": "2025-12-04 22:12:39 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_boots": {
+    "criteria": {
+      "has_item": "2025-12-05 00:26:04 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-12-04 22:17:33 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_cupboard": {
+    "criteria": {
+      "has_dark_oak_cupboard": "2025-12-04 22:12:39 -0500"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/teleportation_robe_chestplate": {
+    "criteria": {
+      "has_copper_ingot": "2025-12-05 00:26:04 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-12-05 00:26:04 -0500"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/phantom_armor_chestplate": {
+    "criteria": {
+      "has_phantom_bones": "2025-12-05 00:01:31 -0500"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/paper_lantern": {
+    "criteria": {
+      "has_item": "2025-12-04 22:29:31 -0500"
+    },
+    "done": true
+  },
+  "frostiful:recipes/combat/armor/fur_leggings": {
+    "criteria": {
+      "has_fur": "2025-12-04 23:37:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-12-04 22:12:39 -0500"
+    },
+    "done": true
+  },
+  "herbalbrews:recipes/copper_tea_kettle": {
+    "criteria": {
+      "has_copper_ingot": "2025-12-05 00:26:04 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_bars_from_copper_ingots_stonecutting": {
+    "criteria": {
+      "has_copper_ingots": "2025-12-05 00:26:04 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-12-04 22:56:42 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-12-04 22:12:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-12-04 22:29:31 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/orange_dye_from_carrot": {
+    "criteria": {
+      "has_carrot": "2025-12-04 22:12:55 -0500"
+    },
+    "done": true
+  },
+  "twigs:recipes/basalt_blocks/polished_basalt_bricks": {
+    "criteria": {
+      "has_item": "2025-12-05 00:07:46 -0500"
+    },
+    "done": true
+  },
+  "frostiful:recipes/combat/armor/fur_helmet": {
+    "criteria": {
+      "has_fur": "2025-12-04 23:37:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2025-12-04 22:19:19 -0500"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_oak_wine_rack_small": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-12-04 22:12:39 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-12-04 22:12:55 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-12-04 22:29:31 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/copper_plate": {
+    "criteria": {
+      "has_copper_ingot": "2025-12-05 00:26:04 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-12-05 00:26:04 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_shingles_from_copper_ingots_stonecutting": {
+    "criteria": {
+      "has_copper_ingots": "2025-12-05 00:26:04 -0500"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/shadow_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2025-12-04 21:59:35 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-12-04 22:29:31 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-12-04 22:29:31 -0500"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/grenadier": {
+    "criteria": {
+      "requirement": "2025-12-04 22:33:41 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-12-04 22:12:55 -0500"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/shieldbearer": {
+    "criteria": {
+      "requirement": "2025-12-04 22:38:37 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-12-04 22:29:31 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/wire_mill/copper_cable": {
+    "criteria": {
+      "has_copper_ingot": "2025-12-05 00:26:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-12-05 00:07:46 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_pillar_trim": {
+    "criteria": {
+      "has_dark_oak_pillar_trim": "2025-12-04 22:12:39 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-12-04 22:12:39 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_side_table": {
+    "criteria": {
+      "has_dark_oak_side_table": "2025-12-04 22:12:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-12-04 22:17:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-12-05 00:10:59 -0500"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_dark_oak": {
+    "criteria": {
+      "has_item": "2025-12-04 22:12:39 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_engine": {
+    "criteria": {
+      "has_item": "2025-12-05 00:26:04 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_fancy_bed": {
+    "criteria": {
+      "has_dark_oak_fancy_bed": "2025-12-04 22:12:39 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/glass_bottle_from_experience_bottle": {
+    "criteria": {
+      "has_experience_bottle": "2025-12-04 22:26:18 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
+    "criteria": {
+      "has_item": "2025-12-05 00:26:04 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-12-04 22:56:42 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-12-04 22:12:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-12-05 00:26:04 -0500"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/protector": {
+    "criteria": {
+      "requirement": "2025-12-04 22:55:25 -0500"
+    },
+    "done": true
+  },
+  "immersive_melodies:misc/instruments": {
+    "criteria": {
+      "has_item": "2025-12-05 00:26:04 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-12-04 22:17:33 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fancy_painting": {
+    "criteria": {
+      "has_fancy_painting": "2025-12-04 22:08:53 -0500"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/phantom_bones_to_bonemeal": {
+    "criteria": {
+      "has_phantom_bones": "2025-12-05 00:01:31 -0500"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/mutated_bat": {
+    "criteria": {
+      "requirement": "2025-12-04 23:04:42 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/golden_carrot": {
+    "criteria": {
+      "has_carrot": "2025-12-04 22:12:55 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/copper_nugget": {
+    "criteria": {
+      "has_copper_ingot": "2025-12-05 00:26:04 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_nugget": {
+    "criteria": {
+      "has_item": "2025-12-05 00:26:04 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_leggings_with_water": {
+    "criteria": {
+      "has_diamond_leggings": "2025-12-05 00:30:26 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/storage_block/copper_wall_stonecutting": {
+    "criteria": {
+      "has_copper": "2025-12-05 00:26:04 -0500"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-12-05 00:07:46 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-12-04 22:29:31 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_small_dust_from_bowl": {
+    "criteria": {
+      "has_bowl": "2025-12-04 22:56:42 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_bench": {
+    "criteria": {
+      "has_dark_oak_bench": "2025-12-04 22:12:39 -0500"
+    },
+    "done": true
+  },
+  "frostiful:recipes/combat/armor/fur_chestplate": {
+    "criteria": {
+      "has_fur": "2025-12-04 23:37:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-12-04 22:12:39 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2025-12-05 00:26:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-12-04 22:12:39 -0500"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sweet_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2025-12-04 21:59:35 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_desk": {
+    "criteria": {
+      "has_dark_oak_desk": "2025-12-04 22:12:39 -0500"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/beetroot_salad": {
+    "criteria": {
+      "has_beetroot": "2025-12-04 22:17:33 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-12-04 22:17:33 -0500"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/dark_oak_seat": {
+    "criteria": {
+      "has_plank": "2025-12-04 22:12:39 -0500"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-12-04 23:47:51 -0500"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-12-04 22:12:55 -0500"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/enchanted_membrane": {
+    "criteria": {
+      "has_item.minecraft.phantom_membrane": "2025-12-04 23:42:59 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_whistle": {
+    "criteria": {
+      "has_item": "2025-12-05 00:26:04 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_fences": {
+    "criteria": {
+      "has_tag_minecraft_wooden_fences": "2025-12-04 23:11:32 -0500"
+    },
+    "done": true
+  },
+  "minecells:unlock/run_in_the_promenade": {
+    "criteria": {
+      "run": "2025-12-04 22:52:06 -0500"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/ghostly_helmet": {
+    "criteria": {
+      "has_skeleton_skull": "2025-12-04 22:22:12 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/insulated_copper_cable_alt": {
+    "criteria": {
+      "has_copper": "2025-12-05 00:26:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-12-05 00:07:46 -0500"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-12-05 00:26:04 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_fences": {
+    "criteria": {
+      "has_tag_minecraft_wooden_fences": "2025-12-04 23:11:32 -0500"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grotesque_stew": {
+    "criteria": {
+      "has_item": "2025-12-04 22:56:42 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-12-04 22:17:33 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_nightstand": {
+    "criteria": {
+      "has_dark_oak_nightstand": "2025-12-04 22:12:39 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_pump": {
+    "criteria": {
+      "has_item": "2025-12-05 00:26:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-12-05 00:26:04 -0500"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/mortar_and_pestle": {
+    "criteria": {
+      "has_bowl": "2025-12-04 22:56:42 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-12-04 22:17:33 -0500"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-12-04 22:56:42 -0500"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_paper": "2025-12-04 22:29:31 -0500"
+    },
+    "done": true
+  },
+  "oxidized:recipes/copper_pan": {
+    "criteria": {
+      "has_copper_block": "2025-12-05 00:26:04 -0500"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2025-12-04 22:29:31 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/insulated_copper_cable": {
+    "criteria": {
+      "has_copper": "2025-12-05 00:26:04 -0500"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/dark_oak_table": {
+    "criteria": {
+      "has_bamboo": "2025-12-04 22:12:39 -0500"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/derelict/sign_post_burned": {
+    "criteria": {
+      "has_item": "2025-12-04 22:11:13 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2025-12-04 23:42:59 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_corner_trim": {
+    "criteria": {
+      "has_dark_oak_corner_trim": "2025-12-04 22:12:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-12-04 22:12:39 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_scaffolding_from_copper_ingots_stonecutting": {
+    "criteria": {
+      "has_copper_ingots": "2025-12-05 00:26:04 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/storage_block/copper_wall": {
+    "criteria": {
+      "has_copper": "2025-12-05 00:26:04 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_counter": {
+    "criteria": {
+      "has_dark_oak_counter": "2025-12-04 22:12:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-12-04 22:12:39 -0500"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/leaping_zombie": {
+    "criteria": {
+      "requirement": "2025-12-04 22:29:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-12-04 22:12:39 -0500"
+    },
+    "done": true
+  },
+  "frostiful:recipes/misc/fur_padding": {
+    "criteria": {
+      "has_fur": "2025-12-04 23:37:10 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_leggings_with_mercury": {
+    "criteria": {
+      "has_diamond_leggings": "2025-12-05 00:30:26 -0500"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/skeleton_skull_to_bonemeal": {
+    "criteria": {
+      "has_skeleton_skull": "2025-12-04 22:22:12 -0500"
+    },
+    "done": true
+  },
+  "friendsandfoes:recipes/redstone/copper_button": {
+    "criteria": {
+      "has_copper_ingot": "2025-12-05 00:26:04 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/hose_pulley": {
+    "criteria": {
+      "has_item": "2025-12-05 00:26:04 -0500"
+    },
+    "done": true
+  },
+  "ae2:main/root": {
+    "criteria": {
+      "copper": "2025-12-05 00:26:04 -0500"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_snowy_leaves/spruce": {
+    "criteria": {
+      "has_snowball": "2025-12-05 00:07:46 -0500"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
