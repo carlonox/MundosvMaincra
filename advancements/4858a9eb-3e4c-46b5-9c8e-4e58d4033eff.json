@@ -292,6 +292,7 @@
       "minecraft:lush_caves": "2025-11-27 20:26:03 -0500",
       "minecraft:frozen_ocean": "2025-12-04 23:36:14 -0500",
       "minecraft:ocean": "2025-11-27 18:00:43 -0500",
+      "minecraft:snowy_beach": "2025-12-06 01:26:33 -0500",
       "minecraft:deep_lukewarm_ocean": "2025-11-27 18:03:41 -0500",
       "minecraft:meadow": "2025-12-04 21:54:13 -0500",
       "minecraft:savanna": "2025-11-27 18:08:49 -0500",
@@ -2552,12 +2553,15 @@
       "minecraft:piglin_brute": "2025-11-27 23:12:09 -0500",
       "minecraft:spider": "2025-11-27 22:17:21 -0500",
       "minecraft:creeper": "2025-11-27 18:05:48 -0500",
+      "minecraft:evoker": "2025-12-06 01:24:38 -0500",
       "minecraft:phantom": "2025-12-04 23:47:51 -0500",
       "minecraft:zombified_piglin": "2025-11-27 23:53:20 -0500",
       "minecraft:wither_skeleton": "2025-11-27 23:30:13 -0500",
       "minecraft:husk": "2025-12-04 22:13:08 -0500",
       "minecraft:piglin": "2025-11-27 23:12:17 -0500",
       "minecraft:silverfish": "2025-11-27 21:52:45 -0500",
+      "minecraft:enderman": "2025-12-06 01:00:31 -0500",
+      "minecraft:vex": "2025-12-06 01:24:42 -0500",
       "minecraft:zombie": "2025-11-27 17:59:03 -0500",
       "minecraft:zombie_villager": "2025-11-27 19:34:09 -0500"
     },
@@ -3172,13 +3176,16 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "mauve_hills": "2025-11-27 18:08:01 -0500",
+      "silver_birch_forest": "2025-12-06 01:14:33 -0500",
       "shrubland": "2025-12-04 21:53:37 -0500",
+      "pine_taiga": "2025-12-06 01:09:50 -0500",
       "autumnal_maple_forest": "2025-12-04 22:25:48 -0500",
       "muddy_river": "2025-12-04 22:08:02 -0500",
       "ancient_delta": "2025-11-27 21:05:19 -0500",
       "willow_forest": "2025-12-04 21:52:48 -0500",
       "frozen_tundra": "2025-12-04 23:28:23 -0500",
       "barley_fields": "2025-11-27 18:08:44 -0500",
+      "poppy_fields": "2025-12-06 01:15:19 -0500",
       "rocky_meadow": "2025-11-27 18:07:20 -0500",
       "frozen_pine_taiga": "2025-12-04 23:27:26 -0500",
       "maple_forest": "2025-12-04 22:25:06 -0500",
@@ -3196,19 +3203,25 @@
       "pumpkin_fields": "2025-12-04 22:27:09 -0500",
       "grassland": "2025-11-27 18:04:48 -0500",
       "prairie": "2025-11-27 18:08:03 -0500",
-      "icy_heights": "2025-12-04 23:27:24 -0500"
+      "gravel_beach": "2025-12-06 01:12:49 -0500",
+      "golden_boreal_taiga": "2025-12-06 01:10:36 -0500",
+      "icy_heights": "2025-12-04 23:27:24 -0500",
+      "lupine_plains": "2025-12-06 01:09:57 -0500"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
       "mauve_hills": "2025-11-27 18:08:01 -0500",
+      "silver_birch_forest": "2025-12-06 01:14:33 -0500",
       "shrubland": "2025-12-04 21:53:37 -0500",
+      "pine_taiga": "2025-12-06 01:09:50 -0500",
       "autumnal_maple_forest": "2025-12-04 22:25:48 -0500",
       "muddy_river": "2025-12-04 22:08:02 -0500",
       "willow_forest": "2025-12-04 21:52:48 -0500",
       "frozen_tundra": "2025-12-04 23:28:23 -0500",
       "barley_fields": "2025-11-27 18:08:44 -0500",
+      "poppy_fields": "2025-12-06 01:15:19 -0500",
       "rocky_meadow": "2025-11-27 18:07:20 -0500",
       "frozen_pine_taiga": "2025-12-04 23:27:26 -0500",
       "maple_forest": "2025-12-04 22:25:06 -0500",
@@ -3224,7 +3237,10 @@
       "pumpkin_fields": "2025-12-04 22:27:09 -0500",
       "grassland": "2025-11-27 18:04:48 -0500",
       "prairie": "2025-11-27 18:08:03 -0500",
-      "icy_heights": "2025-12-04 23:27:24 -0500"
+      "gravel_beach": "2025-12-06 01:12:49 -0500",
+      "golden_boreal_taiga": "2025-12-06 01:10:36 -0500",
+      "icy_heights": "2025-12-04 23:27:24 -0500",
+      "lupine_plains": "2025-12-06 01:09:57 -0500"
     },
     "done": false
   },
@@ -10215,6 +10231,7 @@
   },
   "friendsandfoes:adventure/the_magicians": {
     "criteria": {
+      "killed_evoker": "2025-12-06 01:24:38 -0500",
       "killed_illusioner": "2025-11-27 21:41:18 -0500"
     },
     "done": false
@@ -16009,6 +16026,288 @@
   "transmog:recipes/misc/transmogrification_table": {
     "criteria": {
       "has_item": "2025-12-05 23:43:07 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_tin_storage_block": {
+    "criteria": {
+      "has_raw_tin": "2025-12-06 00:10:20 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/blasting/tin_ingot_from_c_raw_tin_ores": {
+    "criteria": {
+      "has_tag_c_raw_tin_ores": "2025-12-06 00:10:20 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/raw_tin": {
+    "criteria": {
+      "has_raw_tin_ores": "2025-12-06 00:10:20 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/smelting/tin_ingot_from_c_raw_tin_ores": {
+    "criteria": {
+      "has_tag_c_raw_tin_ores": "2025-12-06 00:10:20 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_axe_with_mercury": {
+    "criteria": {
+      "has_diamond_axe": "2025-12-06 00:15:55 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_axe_with_water": {
+    "criteria": {
+      "has_diamond_axe": "2025-12-06 00:15:55 -0500"
+    },
+    "done": true
+  },
+  "rpg_series:spell_novice_priest": {
+    "criteria": {
+      "bind": "2025-12-06 00:16:51 -0500"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/birch_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-12-06 00:38:54 -0500"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/spruce_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-12-06 00:38:54 -0500"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/dragons_blood_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-12-06 00:38:54 -0500"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/dark_oak_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-12-06 00:38:54 -0500"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/acacia_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-12-06 00:38:54 -0500"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/warped_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-12-06 00:38:54 -0500"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/oak_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-12-06 00:38:54 -0500"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/cypress_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-12-06 00:38:54 -0500"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/crimson_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-12-06 00:38:54 -0500"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/jungle_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-12-06 00:38:54 -0500"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/elder_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-12-06 00:38:54 -0500"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/juniper_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-12-06 00:38:54 -0500"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/garlic_bread": {
+    "criteria": {
+      "has_item": "2025-12-06 00:55:00 -0500"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "skeleton_creeper": "2025-12-06 01:04:44 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-12-06 01:21:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-12-06 01:21:32 -0500"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_spider": {
+    "criteria": {
+      "has_core_specification_item": "2025-12-06 01:21:32 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/string_from_crossbow": {
+    "criteria": {
+      "has_crossbow": "2025-12-06 01:22:20 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/digital_display": {
+    "criteria": {
+      "has_advanced_circuit": "2025-12-06 01:22:50 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/solar_panel/industrial_solar_panel_alt": {
+    "criteria": {
+      "has_advanced_circuit": "2025-12-06 01:22:50 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/chemical_reactor": {
+    "criteria": {
+      "has_advanced_circuit": "2025-12-06 01:22:50 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/player_detector": {
+    "criteria": {
+      "has_advanced_circuit": "2025-12-06 01:22:50 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/lapotronic_su": {
+    "criteria": {
+      "has_advanced_circuit": "2025-12-06 01:22:50 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/rolling_machine": {
+    "criteria": {
+      "has_advanced_circuit": "2025-12-06 01:22:50 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/auto_crafting_table": {
+    "criteria": {
+      "has_advanced_circuit": "2025-12-06 01:22:50 -0500"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/void_totem": {
+    "criteria": {
+      "has_totem_of_undying": "2025-12-06 01:24:59 -0500"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/royal_guard_armor_helmet": {
+    "criteria": {
+      "has_upgrade_item": "2025-12-06 01:24:59 -0500"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/gilded_glory_boots": {
+    "criteria": {
+      "has_upgrade_item": "2025-12-06 01:24:59 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/arms_up_pottery_sherd": {
+    "criteria": {
+      "has_totem_of_undying": "2025-12-06 01:24:59 -0500"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/royal_guard_armor_boots": {
+    "criteria": {
+      "has_upgrade_item": "2025-12-06 01:24:59 -0500"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/gilded_glory_chestplate": {
+    "criteria": {
+      "has_upgrade_item": "2025-12-06 01:24:59 -0500"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/royal_guard_armor_chestplate": {
+    "criteria": {
+      "has_upgrade_item": "2025-12-06 01:24:59 -0500"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/gilded_glory_leggings": {
+    "criteria": {
+      "has_upgrade_item": "2025-12-06 01:24:59 -0500"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/royal_guard_armor_leggings": {
+    "criteria": {
+      "has_upgrade_item": "2025-12-06 01:24:59 -0500"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/gilded_glory_helmet": {
+    "criteria": {
+      "has_upgrade_item": "2025-12-06 01:24:59 -0500"
+    },
+    "done": true
+  },
+  "things:bater_wucket": {
+    "criteria": {
+      "bater_wucket": "2025-12-06 01:40:37 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-12-06 01:44:48 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-12-06 01:44:48 -0500"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_piles/dandelion": {
+    "criteria": {
+      "has_flower": "2025-12-06 01:44:48 -0500"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/dandelion_paper_lantern": {
+    "criteria": {
+      "has_item": "2025-12-06 01:44:48 -0500"
     },
     "done": true
   },

@@ -107,9 +107,13 @@
       "minecraft:deep_ocean": "2025-11-27 18:01:37 -0500",
       "minecraft:frozen_river": "2025-12-04 23:28:30 -0500",
       "minecraft:birch_forest": "2025-12-04 22:03:56 -0500",
+      "minecraft:bamboo_jungle": "2025-12-06 01:10:31 -0500",
+      "minecraft:wooded_badlands": "2025-12-06 01:27:42 -0500",
+      "minecraft:badlands": "2025-12-06 01:27:25 -0500",
       "minecraft:savanna_plateau": "2025-12-04 19:49:43 -0500",
       "minecraft:beach": "2025-11-27 17:47:57 -0500",
       "minecraft:dark_forest": "2025-12-04 22:05:11 -0500",
+      "minecraft:stony_peaks": "2025-12-06 01:32:42 -0500",
       "minecraft:sparse_jungle": "2025-12-01 00:13:03 -0500",
       "minecraft:lukewarm_ocean": "2025-11-27 18:04:13 -0500",
       "minecraft:river": "2025-11-27 18:08:50 -0500",
@@ -118,9 +122,11 @@
       "minecraft:cold_ocean": "2025-11-27 17:59:45 -0500",
       "minecraft:forest": "2025-11-27 17:58:54 -0500",
       "minecraft:frozen_ocean": "2025-12-04 23:36:25 -0500",
+      "minecraft:desert": "2025-12-06 01:27:21 -0500",
       "minecraft:ocean": "2025-11-27 18:00:47 -0500",
       "minecraft:jungle": "2025-12-01 00:14:37 -0500",
       "minecraft:deep_lukewarm_ocean": "2025-11-27 18:03:45 -0500",
+      "minecraft:old_growth_birch_forest": "2025-12-06 01:11:42 -0500",
       "minecraft:meadow": "2025-12-04 21:54:13 -0500",
       "minecraft:savanna": "2025-11-27 18:09:37 -0500",
       "minecraft:plains": "2025-12-04 19:54:52 -0500"
@@ -805,11 +811,15 @@
       "ochard": "2025-12-04 19:51:09 -0500",
       "frozen_pine_taiga": "2025-12-04 23:27:37 -0500",
       "maple_forest": "2025-12-04 22:25:21 -0500",
+      "tropical_river": "2025-12-06 01:32:15 -0500",
       "magnolia_highlands": "2025-12-04 19:49:56 -0500",
+      "outback": "2025-12-06 01:32:16 -0500",
+      "sparse_redwoods": "2025-12-06 01:26:13 -0500",
       "deciduous_forest": "2025-11-27 18:05:26 -0500",
       "boreal_forest": "2025-12-04 22:08:18 -0500",
       "blackstone_basin": "2025-11-28 00:37:35 -0500",
       "towering_cliffs": "2025-12-04 19:51:03 -0500",
+      "chalk_cliffs": "2025-12-06 01:25:13 -0500",
       "infernal_holt": "2025-12-05 21:49:09 -0500",
       "bamboo_forest": "2025-11-27 18:04:46 -0500",
       "cold_boreal_taiga": "2025-12-04 23:30:06 -0500",
@@ -819,6 +829,7 @@
       "pumpkin_fields": "2025-12-04 22:27:03 -0500",
       "grassland": "2025-11-27 18:04:52 -0500",
       "prairie": "2025-11-27 18:08:18 -0500",
+      "redwoods": "2025-12-06 01:09:59 -0500",
       "icy_heights": "2025-12-04 23:27:34 -0500"
     },
     "done": false
@@ -838,10 +849,14 @@
       "ochard": "2025-12-04 19:51:09 -0500",
       "frozen_pine_taiga": "2025-12-04 23:27:37 -0500",
       "maple_forest": "2025-12-04 22:25:21 -0500",
+      "tropical_river": "2025-12-06 01:32:15 -0500",
       "magnolia_highlands": "2025-12-04 19:49:56 -0500",
+      "outback": "2025-12-06 01:32:16 -0500",
+      "sparse_redwoods": "2025-12-06 01:26:13 -0500",
       "deciduous_forest": "2025-11-27 18:05:26 -0500",
       "boreal_forest": "2025-12-04 22:08:18 -0500",
       "towering_cliffs": "2025-12-04 19:51:03 -0500",
+      "chalk_cliffs": "2025-12-06 01:25:13 -0500",
       "bamboo_forest": "2025-11-27 18:04:46 -0500",
       "cold_boreal_taiga": "2025-12-04 23:30:06 -0500",
       "temperate_grove": "2025-12-04 19:51:30 -0500",
@@ -850,6 +865,7 @@
       "pumpkin_fields": "2025-12-04 22:27:03 -0500",
       "grassland": "2025-11-27 18:04:52 -0500",
       "prairie": "2025-11-27 18:08:18 -0500",
+      "redwoods": "2025-12-06 01:09:59 -0500",
       "icy_heights": "2025-12-04 23:27:34 -0500"
     },
     "done": false
@@ -16529,6 +16545,108 @@
   "botania:recipes/misc/petal_pink": {
     "criteria": {
       "has_item": "2025-12-05 22:33:48 -0500"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/blunite/stairs": {
+    "criteria": {
+      "has_blunite": "2025-12-06 00:15:05 -0500"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/blunite/wall": {
+    "criteria": {
+      "has_blunite": "2025-12-06 00:15:05 -0500"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/blunite/polished_slab": {
+    "criteria": {
+      "has_blunite": "2025-12-06 00:15:05 -0500"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/blunite/stairs": {
+    "criteria": {
+      "has_blunite": "2025-12-06 00:15:05 -0500"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_fort": {
+    "criteria": {
+      "location0": "2025-12-06 01:26:14 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/glassfiber_cable_6": {
+    "criteria": {
+      "has_raw_silver": "2025-12-06 00:25:48 -0500"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/blunite/slab": {
+    "criteria": {
+      "has_blunite": "2025-12-06 00:15:05 -0500"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/blunite/polished_block": {
+    "criteria": {
+      "has_blunite": "2025-12-06 00:15:05 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/smelting/silver_ingot_from_c_raw_silver_ores": {
+    "criteria": {
+      "has_tag_c_raw_silver_ores": "2025-12-06 00:25:48 -0500"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/blunite/wall": {
+    "criteria": {
+      "has_blunite": "2025-12-06 00:15:05 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/raw_silver": {
+    "criteria": {
+      "has_raw_silver_ores": "2025-12-06 00:25:48 -0500"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/blunite/polished_stairs": {
+    "criteria": {
+      "has_blunite": "2025-12-06 00:15:05 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_silver_storage_block": {
+    "criteria": {
+      "has_raw_silver": "2025-12-06 00:25:48 -0500"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bandit_towers": {
+    "criteria": {
+      "location0": "2025-12-06 01:30:05 -0500"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/blasting/silver_ingot_from_c_raw_silver_ores": {
+    "criteria": {
+      "has_tag_c_raw_silver_ores": "2025-12-06 00:25:48 -0500"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/blunite/polished_block": {
+    "criteria": {
+      "has_blunite": "2025-12-06 00:15:05 -0500"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/blunite/slab": {
+    "criteria": {
+      "has_blunite": "2025-12-06 00:15:05 -0500"
     },
     "done": true
   },
